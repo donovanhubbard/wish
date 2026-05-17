@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"testing"
 
-	"charm.land/wish/v2/testsession"
+	"github.com/donovanhubbard/wish/testsession"
 	"github.com/donovanhubbard/ssh"
 	"github.com/google/go-cmp/cmp"
 	"github.com/matryer/is"

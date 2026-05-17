@@ -6,7 +6,7 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 	"charm.land/log/v2"
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/donovanhubbard/ssh"
 )
 

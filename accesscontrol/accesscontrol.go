@@ -4,7 +4,7 @@ package accesscontrol
 import (
 	"fmt"
 
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/donovanhubbard/ssh"
 )
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"charm.land/wish/v2/accesscontrol"
-	"charm.land/wish/v2/testsession"
+	"github.com/donovanhubbard/wish/accesscontrol"
+	"github.com/donovanhubbard/wish/testsession"
 	"github.com/donovanhubbard/ssh"
 	gossh "golang.org/x/crypto/ssh"
 )

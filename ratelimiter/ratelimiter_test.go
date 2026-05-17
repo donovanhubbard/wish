@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"charm.land/wish/v2/testsession"
+	"github.com/donovanhubbard/wish/testsession"
 	"github.com/donovanhubbard/ssh"
 	"golang.org/x/sync/errgroup"
 	"golang.org/x/time/rate"

@@ -15,9 +15,9 @@ import (
 	"time"
 
 	"charm.land/log/v2"
-	"charm.land/wish/v2"
-	"charm.land/wish/v2/git"
-	"charm.land/wish/v2/logging"
+	"github.com/donovanhubbard/wish"
+	"github.com/donovanhubbard/wish/git"
+	"github.com/donovanhubbard/wish/logging"
 	"github.com/donovanhubbard/ssh"
 )
 

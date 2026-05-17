@@ -9,7 +9,7 @@ import (
 	"sync"
 	"testing"
 
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/charmbracelet/keygen"
 	"github.com/donovanhubbard/ssh"
 )

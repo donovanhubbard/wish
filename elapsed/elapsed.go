@@ -4,7 +4,7 @@ package elapsed
 import (
 	"time"
 
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/donovanhubbard/ssh"
 )
 

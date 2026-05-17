@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"charm.land/log/v2"
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/donovanhubbard/ssh"
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"

@@ -13,9 +13,9 @@ import (
 	_ "embed"
 
 	"charm.land/log/v2"
-	"charm.land/wish/v2"
-	"charm.land/wish/v2/elapsed"
-	"charm.land/wish/v2/logging"
+	"github.com/donovanhubbard/wish"
+	"github.com/donovanhubbard/wish/elapsed"
+	"github.com/donovanhubbard/wish/logging"
 	"github.com/donovanhubbard/ssh"
 )
 

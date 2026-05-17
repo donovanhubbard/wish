@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"charm.land/wish/v2"
+	"github.com/donovanhubbard/wish"
 	"github.com/donovanhubbard/ssh"
 )
 

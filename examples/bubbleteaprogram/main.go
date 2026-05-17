@@ -15,9 +15,9 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 	"charm.land/log/v2"
-	"charm.land/wish/v2"
-	"charm.land/wish/v2/bubbletea"
-	"charm.land/wish/v2/logging"
+	"github.com/donovanhubbard/wish"
+	"github.com/donovanhubbard/wish/bubbletea"
+	"github.com/donovanhubbard/wish/logging"
 	"github.com/donovanhubbard/ssh"
 )
 

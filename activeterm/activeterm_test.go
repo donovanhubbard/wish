@@ -3,8 +3,8 @@ package activeterm_test
 import (
 	"testing"
 
-	"charm.land/wish/v2/activeterm"
-	"charm.land/wish/v2/testsession"
+	"github.com/donovanhubbard/wish/activeterm"
+	"github.com/donovanhubbard/wish/testsession"
 	"github.com/donovanhubbard/ssh"
 	gossh "golang.org/x/crypto/ssh"
 )
