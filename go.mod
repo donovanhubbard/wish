@@ -1,4 +1,4 @@
-module charm.land/wish/v2
+module github.com/donovanhubbard/wish
 
 go 1.25.9
 
