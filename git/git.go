@@ -11,7 +11,7 @@ import (
 
 	"charm.land/log/v2"
 	"charm.land/wish/v2"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
 )

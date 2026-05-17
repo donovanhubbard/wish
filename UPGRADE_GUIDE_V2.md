@@ -327,7 +327,7 @@ package main
 import (
     tea "github.com/charmbracelet/bubbletea"
     "github.com/charmbracelet/lipgloss"
-    "github.com/charmbracelet/ssh"
+    "github.com/donovanhubbard/ssh"
     "github.com/charmbracelet/wish"
     "github.com/charmbracelet/wish/bubbletea"
     "github.com/charmbracelet/wish/logging"
@@ -384,7 +384,7 @@ import (
     "charm.land/wish/v2"
     "charm.land/wish/v2/bubbletea"
     "charm.land/wish/v2/logging"
-    "github.com/charmbracelet/ssh"
+    "github.com/donovanhubbard/ssh"
 )
 
 func main() {

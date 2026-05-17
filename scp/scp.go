@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"charm.land/wish/v2"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 // CopyToClientHandler is a handler that can be implemented to handle files

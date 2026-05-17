@@ -5,7 +5,7 @@ import (
 
 	"charm.land/wish/v2/activeterm"
 	"charm.land/wish/v2/testsession"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	gossh "golang.org/x/crypto/ssh"
 )
 

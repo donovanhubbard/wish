@@ -3,7 +3,7 @@ package comment
 
 import (
 	"charm.land/wish/v2"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 // Middleware prints a comment at the end of the session.

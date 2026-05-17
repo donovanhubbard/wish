@@ -7,7 +7,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	gossh "golang.org/x/crypto/ssh"
 )
 

@@ -6,7 +6,7 @@ import (
 
 	"charm.land/log/v2"
 	"charm.land/wish/v2"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 // Middleware provides basic connection logging.

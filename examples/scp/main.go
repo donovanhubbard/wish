@@ -18,7 +18,7 @@ import (
 	"charm.land/log/v2"
 	"charm.land/wish/v2"
 	"charm.land/wish/v2/scp"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	"github.com/pkg/sftp"
 )
 

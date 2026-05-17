@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 var (

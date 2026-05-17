@@ -9,7 +9,7 @@ import (
 
 	"charm.land/log/v2"
 	"charm.land/wish/v2"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	lru "github.com/hashicorp/golang-lru/v2"
 	"golang.org/x/time/rate"
 )

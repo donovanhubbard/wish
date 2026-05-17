@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 func TestSession(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 
 	"charm.land/log/v2"
 	"github.com/charmbracelet/keygen"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	gossh "golang.org/x/crypto/ssh"
 )
 
@@ -209,6 +209,14 @@ func WithSubsystem(key string, h ssh.SubsystemHandler) ssh.Option {
 			s.SubsystemHandlers = map[string]ssh.SubsystemHandler{}
 		}
 		s.SubsystemHandlers[key] = h
+		return nil
+	}
+}
+
+// EnableProxyProtocol returns a functional option that sets EnableProxyProtocol on the server
+func EnableProxyProtocol() ssh.Option {
+	return func(srv *ssh.Server) error {
+		srv.EnableProxyProtocol = true
 		return nil
 	}
 }

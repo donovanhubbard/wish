@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/fs"
 
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 func copyToClient(s ssh.Session, info Info, handler CopyToClientHandler) error {

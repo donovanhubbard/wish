@@ -20,7 +20,7 @@ import (
 	"charm.land/wish/v2/activeterm"
 	"charm.land/wish/v2/bubbletea"
 	"charm.land/wish/v2/logging"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 )
 
 const (

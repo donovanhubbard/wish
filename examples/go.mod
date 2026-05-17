@@ -8,7 +8,7 @@ require (
 	charm.land/lipgloss/v2 v2.0.3
 	charm.land/log/v2 v2.0.0
 	charm.land/wish/v2 v2.0.0-00010101000000-000000000000
-	github.com/charmbracelet/ssh v0.0.0-20250826160808-ebfa259c7309
+	github.com/donovanhubbard/ssh v0.0.0-20250826160808-ebfa259c7309
 	github.com/charmbracelet/x/editor v0.2.0
 	github.com/pkg/sftp v1.13.10
 	github.com/spf13/cobra v1.10.2

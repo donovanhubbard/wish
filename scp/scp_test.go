@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"charm.land/wish/v2/testsession"
-	"github.com/charmbracelet/ssh"
+	"github.com/donovanhubbard/ssh"
 	"github.com/google/go-cmp/cmp"
 	"github.com/matryer/is"
 	gossh "golang.org/x/crypto/ssh"
